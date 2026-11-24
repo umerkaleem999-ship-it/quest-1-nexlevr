@@ -1,0 +1,10 @@
+{
+  "laptop":        { "price": 999.99,  "currency": "USD", "in_stock": true  },
+  "headphones":    { "price": 149.99,  "currency": "USD", "in_stock": true  },
+  "keyboard":      { "price": 89.99,   "currency": "USD", "in_stock": false },
+  "mouse":         { "price": 49.99,   "currency": "USD", "in_stock": true  },
+  "monitor":       { "price": 349.99,  "currency": "USD", "in_stock": true  },
+  "webcam":        { "price": 79.99,   "currency": "USD", "in_stock": false },
+  "usb hub":       { "price": 34.99,   "currency": "USD", "in_stock": true  },
+  "standing desk": { "price": 499.99,  "currency": "USD", "in_stock": true  }
+}
